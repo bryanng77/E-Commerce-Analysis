@@ -10,13 +10,25 @@ As the stakes grew higher, the leadership team in Dunamis faced critical questio
 + Why were certain marketing campaigns falling flat?
 + Which customer segments were driving the most value—and which ones were disengaged?
 + How could they turn a flood of website traffic into meaningful sales?
-+ 
 
-The truth was that, Dunamis had mountains of data at their fingertips, but they lacked the ability to transform that data into actionable insights. Customer behavior across devices, channels, and regions remained a puzzle, and untapped opportunities were slipping through the cracks.
+The truth was that Dunamis had mountains of data at their fingertips, but they could not transform that data into actionable insights. Customer behavior across devices, channels, and regions remained a puzzle, and untapped opportunities were slipping through the cracks.
 
 ## Objectives
 
+After speaking to the E-commerce team, these were some of the objectives that they would like the data team to uncover:
 
+1. Unlock the Potential of Marketing Channels:
++ Which channels were delivering the highest ROI? Which campaigns were wasting the budget?
++ Were their social media referrals bringing in the right audience or just empty traffic?
+
+2. Unravel Regional Performance:
++ While North America and Europe were performing well, traffic from Asia was growing but converting poorly. Was this due to cultural mismatches, logistical issues, or something else?
+
+3. Optimize Mobile Experience:
++ Mobile users made up the majority of sessions but lagged far behind desktop users in conversion rates. Why were they dropping off?
+
+4. Leverage Seasonal Trends:
++ Sales seemed to spike during certain periods, but the team lacked the tools to predict and capitalize on these trends effectively.
 
 ## Data Content
 
