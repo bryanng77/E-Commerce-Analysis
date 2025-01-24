@@ -50,23 +50,21 @@ Before beginning the analysis, various checks were conducted for quality control
 
 1️⃣ Marketing Channel Performance:
 
-Top Channels:
 + Organic Search contributed 40% of total sessions and had a conversion rate of 2.5%, making it the most reliable channel for driving valuable traffic.
 + Referral Traffic had a conversion rate of only 0.8%, indicating potential for optimization in referral campaigns.
 
-
 2️⃣ Regional Performance:
-+ Top-Performing Regions:
+
 + North America and Europe dominated in conversions, with North America contributing 55% of total transactions.
 Underperforming Region:
 + Traffic from Asia was growing (accounting for 20% of sessions) but had a low conversion rate of 0.5%.
 
 3️⃣ Device Performance:
-Device Trends:
+
 + Desktop users converted at a higher rate of 3.2%, while mobile users had a lower conversion rate of 1.2%, despite accounting for 60% of total sessions.
 
 4️⃣ Seasonal Trends:
-Daily and Seasonal Patterns:
+
 + Conversion rates spiked during weekends, with Sunday showing the highest conversion rate of 2.8%.
 + Sales peaked during the holiday season in December, contributing 25% of the total revenue for the year.
 
