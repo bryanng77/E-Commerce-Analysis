@@ -32,7 +32,7 @@ After speaking to the E-commerce team, these were some of the objectives that th
 
 ## Data Content
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/Data%20Cleaning%20Role-Based-Data-Management.sql)
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**]([https://github.com/bryanng77/Role-Based-Data-Management/blob/main/Data%20Cleaning%20Role-Based-Data-Management.sql](https://github.com/bryanng77/E-Commerce-Analysis/blob/main/Data%20Cleaning_Ecommerce-Analysis.sql))
 
 Targeted SQL Queries regarding various business questions can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/SQL%20Business%20Questions%20Queries%20Role-Based-Data_Management.sql)
 
