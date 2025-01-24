@@ -73,7 +73,7 @@ Daily and Seasonal Patterns:
 ### Dashboard Design Considerations
 
 
-#### Recommendations:
+### Recommendations:
 
 Here are some actionable recommendations that can be implemented to enhance business performance
 
