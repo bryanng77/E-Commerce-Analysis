@@ -40,9 +40,9 @@ Targeted SQL Queries regarding various business questions can be found [**here.*
 
 The database structure as seen below consists of a single table, Ecommerce_Data, with a total row count of 2556 records.
 
+![Screenshot 2025-01-24 at 5 18 11 PM](https://github.com/user-attachments/assets/ee6f4c34-c1e8-47b7-8226-9b5af1d2c2a3)
 
-
-Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found **here.**
+Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found [**here.**](https://github.com/bryanng77/E-Commerce-Analysis/blob/main/Data%20Cleaning_Ecommerce-Analysis.sql)
 
 ## Executive Summary
 
