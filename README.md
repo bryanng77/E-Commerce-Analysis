@@ -34,11 +34,11 @@ After speaking to the E-commerce team, these were some of the objectives that th
 
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/E-Commerce-Analysis/blob/main/Data%20Cleaning_Ecommerce-Analysis.sql)
 
-Targeted SQL Queries regarding various business questions can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/SQL%20Business%20Questions%20Queries%20Role-Based-Data_Management.sql)
+Targeted SQL Queries regarding various business questions can be found [**here.**](https://github.com/bryanng77/E-Commerce-Analysis/blob/main/SQL%20Business%20Questions%20Queries_Ecommerce-Analysis.sql)
 
 ## Data Structure and Initial Checks
 
-The database structure as seen below consists of a single table, Ecommerce_Data, with a total row count of ______ records.
+The database structure as seen below consists of a single table, Ecommerce_Data, with a total row count of 2556 records.
 
 
 
