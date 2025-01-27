@@ -46,7 +46,7 @@ Before beginning the analysis, various checks were conducted for quality control
 
 ## Dashboard
 
-![Screenshot 2025-01-28 at 12 47 54 AM](https://github.com/user-attachments/assets/db7d937e-9281-4efb-b0ae-64f1d9bc66ab)
+![Screenshot 2025-01-28 at 12 49 42 AM](https://github.com/user-attachments/assets/02f93326-bf86-40c1-ae19-3c603fd66d30)
 
 ## Executive Summary
 
