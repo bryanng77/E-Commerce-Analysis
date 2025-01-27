@@ -44,6 +44,10 @@ The database structure as seen below consists of a single table, Ecommerce_Data,
 
 Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found [**here.**](https://github.com/bryanng77/E-Commerce-Analysis/blob/main/Data%20Cleaning_Ecommerce-Analysis.sql)
 
+## Dashboard
+
+![Screenshot 2025-01-28 at 12 47 54 AM](https://github.com/user-attachments/assets/db7d937e-9281-4efb-b0ae-64f1d9bc66ab)
+
 ## Executive Summary
 
 ### Overview of Findings
